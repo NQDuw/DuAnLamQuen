@@ -76,7 +76,7 @@
                 </div>
                 <div class="carousel-item-next">
                     <asp:Button ID="btGui" runat="server" CssClass="btn btn-primary" Text="Gửi" OnClick="btGui_Click" />
-                    <asp:Button ID="btLamLai" runat="server" CssClass="btn btn-info" Text="Làm Lại" />
+                    <asp:Button ID="btLamLai" runat="server" CssClass="btn btn-danger" Text="Làm Lại" />
                 </div>
             </div>
             <div class="row mb-2">
